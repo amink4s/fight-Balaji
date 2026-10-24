@@ -1,0 +1,6 @@
+{
+  "name": "Apex Boxer 3D - Championship Ring",
+  "description": "3D boxing championship game with realistic punch physics, stamina mechanics, progressive computer opponents, and mobile-first touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
