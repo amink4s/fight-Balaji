@@ -14,7 +14,7 @@ import {
 
 export const CHAMPIONSHIP_MATCH: ChampionshipMatchConfig = {
   name: 'World Heavyweight Championship Bout',
-  alias: 'Amin "The Champ" Kasaie',
+  alias: 'Balaji "The Dictator"',
   subtitle: 'World Title Showdown',
   beltTitle: 'Undisputed World Championship Crown',
   beltColor: '#f59e0b',
