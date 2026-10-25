@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzNTY0OTEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhFZDI3YTQ2RTdFNjJDMjc4RkMxMEFENjQ2ZjlENzNhZTk3NGE5RDBkIn0",
+    "payload": "eyJkb21haW4iOiJmaWdodGJhbGFqaS52ZXJjZWwuYXBwIn0",
+    "signature": "bYuoXu0usvfX+YVFWmAuKVLxPKaXMjnQ34VsNJfjBKUE0ntEXGaz4hE3pv5J+4yEI5iMjlbOnlOOd9mm74aPzhs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Fight Balaji",
+    "iconUrl": "https://fightbalaji.vercel.app/icon.png",
+    "homeUrl": "https://fightbalaji.vercel.app",
+    "imageUrl": "https://fightbalaji.vercel.app/image.png",
+    "buttonTitle": "Fight Balaji",
+    "splashImageUrl": "https://fightbalaji.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://fightbalaji.vercel.app/api/webhook"
+  }
+}
